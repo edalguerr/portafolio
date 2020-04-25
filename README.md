@@ -1,4 +1,4 @@
-## [Ver portafolio](https://edalguerr.github.io/portafolio/)
+## [Ver portafolio](https://edalguerr.github.io/)
 
 # [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
 
